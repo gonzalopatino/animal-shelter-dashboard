@@ -1,4 +1,4 @@
-# Animal Shelter Dashboard
+# Animal Shelter Dashboard- Full Stack Project
 
 ## Project Overview
 This project involves the development of an interactive dashboard for managing and visualizing animal shelter data. The dashboard enables filtering, geolocation mapping, and breed distribution analysis for rescued animals. Built using Python, MongoDB, and the Dash framework, this project ensures a user-friendly interface and robust backend for maintaining the data.
